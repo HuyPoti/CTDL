@@ -1,2 +1,1 @@
-# CTDL
-Các bài tập CTDL
+Đây là các bài tập các chương môn CTDL
